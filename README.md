@@ -19,8 +19,6 @@ This code has been tested on Windows 7/8 64 bit with Matlab 2016b.
 
   * [SDU-VID](http://www.vsislab.com/projects/MLAI/PedestrianRepresentation/)
 
-
-
 3. run main.m
 
 ## Citing
