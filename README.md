@@ -27,24 +27,26 @@ This code has been tested on Windows 7/8 64 bit with Matlab 2016b.
 
 If you find STFV3D useful in your research, please consider citing:
 
-> @article{zhang2017video,
-author={Zhang, Wei and Ma, Bingpeng and Liu, Kan and Huang, Rui},
-journal={IEEE Transactions on Image Processing},
-title={Video-Based Pedestrian Re-Identification by Adaptive Spatio-Temporal Appearance Model},
-year={2017},
-volume={26},
-number={4},
-pages={2042-2054},
-ISSN={1057-7149}
+```
+@article{zhang2017video,
+  author={Zhang, Wei and Ma, Bingpeng and Liu, Kan and Huang, Rui},
+  journal={IEEE Transactions on Image Processing},
+  title={Video-Based Pedestrian Re-Identification by Adaptive Spatio-Temporal Appearance Model},
+  year={2017},
+  volume={26},
+  number={4},
+  pages={2042-2054},
+  ISSN={1057-7149}
 }
 
->@inproceedings{liu2015spatio,
+@inproceedings{liu2015spatio,
   title={A spatio-temporal appearance representation for viceo-based pedestrian re-identification},
   author={Liu, Kan and Ma, Bingpeng and Zhang, Wei and Huang, Rui},
   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   pages={3810--3818},
   year={2015}
 }
+```
 
 ## License
 
